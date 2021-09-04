@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.exe
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.deps.json
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.runtimeconfig.json
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.runtimeconfig.dev.json
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.dll
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\bin\Debug\netcoreapp3.1\PracticaCalidad.pdb
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.AssemblyInfo.cs
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.dll
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.pdb
+C:\Users\HP\source\repos\PracticaCalidad\PracticaCalidad\obj\Debug\netcoreapp3.1\PracticaCalidad.genruntimeconfig.cache
